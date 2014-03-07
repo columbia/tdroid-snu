@@ -19,3 +19,6 @@
 [submodule "TMTestApp"]
 	path = TMTestApp
 	url = git@github.com:columbia/TMTestApp.git
+[submodule "DroidBench"]
+	path = DroidBench
+	url = git@github.com:columbia/DroidBench.git
