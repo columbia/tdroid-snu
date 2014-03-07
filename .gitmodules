@@ -16,3 +16,6 @@
 [submodule "android_platform_system_core"]
 	path = android_platform_system_core
 	url = git@github.com:columbia/android_platform_system_core.git
+[submodule "TMTestApp"]
+	path = TMTestApp
+	url = git@github.com:columbia/TMTestApp.git
