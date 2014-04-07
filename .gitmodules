@@ -16,3 +16,6 @@
 [submodule "android_platform_system_core"]
 	path = android_platform_system_core
 	url = git@github.com:columbia/android_platform_system_core.git
+[submodule "TMAnalyzer"]
+	path = TMAnalyzer
+	url = git@github.com:columbia/TMAnalyzer.git
